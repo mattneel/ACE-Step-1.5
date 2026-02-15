@@ -1,0 +1,9 @@
+[book]
+authors = ["ACE-Step Contributors", "Codex"]
+language = "en"
+src = "src"
+title = "Generalizing ACE-Step 1.5: A Planner-Executor Pattern for GenAI"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
